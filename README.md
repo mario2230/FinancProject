@@ -22,7 +22,6 @@ Aplicativo de controle financeiro pessoal desenvolvido com Ionic, Vue 3 e TypeSc
    VITE_APP_SUPABASE_KEY=SUA_CHAVE_PUBLICA
    ```
 
-   Use a chave pública `anon`/publishable do projeto. Nunca coloque uma chave `service_role` no aplicativo.
 
 3. No Supabase, habilite o provedor de autenticação por e-mail. Se as confirmações por e-mail estiverem ativadas, configure as URLs de redirecionamento para os endereços usados no desenvolvimento e na publicação. O provedor de e-mail padrão tem limites de envio; para uso contínuo, configure um SMTP próprio em **Authentication → SMTP Settings**.
 
