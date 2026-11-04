@@ -1,0 +1,7 @@
+{
+  "name": "FinancProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
